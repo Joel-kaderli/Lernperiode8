@@ -11,4 +11,9 @@ Die Module will ich im Lernattelier entweder vertiefen oder bei gewissen Themen 
 ## Arbeitspakte 17.01.2025
 - [ ] Modul 347 weiter arbeiten
 - [ ] Moudl 295 den Auftrag mit JWT bearbeiten
-- [ ] Modul 295 den Cors Auftrag machen 
+- [ ] Modul 295 den Cors Auftrag machen
+
+## Arbeitspakete 24.01.2025
+- [ ] Modul 295 gitlab nochmals anschauen und besser verstehen wie man etwas aus VS 2022 Hochlädet und dannach umsetzten
+- [ ] Modul 295 SQL Datenbank mit dem Program verbidnen
+
